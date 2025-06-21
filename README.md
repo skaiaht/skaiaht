@@ -1,4 +1,4 @@
-# Hello, stranger,
+# Hello, stranger
 
 ### About me
 I am a bachelor's graduate of the [`Mendeleyev University of Chemical Technology of Russia`](https://www.muctr.ru/)  
